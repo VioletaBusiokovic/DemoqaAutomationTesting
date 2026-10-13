@@ -13,6 +13,10 @@
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
+        <name>standard__FlowsApp</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
         <name>standard__QueueManagement</name>
         <type>CustomApplication</type>
     </appMenuItems>
@@ -117,10 +121,6 @@
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
-        <name>standard__FlowsApp</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
-    <appMenuItems>
         <name>standard__AgentforceStudio</name>
         <type>CustomApplication</type>
     </appMenuItems>
@@ -129,7 +129,11 @@
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
-        <name>second</name>
+        <name>org_integration</name>
+        <type>ExternalClientApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>second_org_integration</name>
         <type>ExternalClientApplication</type>
     </appMenuItems>
 </AppMenu>
