@@ -4,7 +4,7 @@
         <active>true</active>
         <fullName>Standard</fullName>
         <ruleEntry>
-            <assignedTo>epic.aaa06ef4674e@orgfarm.salesforce.com</assignedTo>
+            <assignedTo>epic.d936d1d75e82@orgfarm.salesforce.com</assignedTo>
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Lead.Country</field>
@@ -13,7 +13,7 @@
             </criteriaItems>
         </ruleEntry>
         <ruleEntry>
-            <assignedTo>epic.aaa06ef4674e@orgfarm.salesforce.com</assignedTo>
+            <assignedTo>epic.d936d1d75e82@orgfarm.salesforce.com</assignedTo>
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Lead.Country</field>
