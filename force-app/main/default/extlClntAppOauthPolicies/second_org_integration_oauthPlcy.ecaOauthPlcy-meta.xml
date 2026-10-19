@@ -5,7 +5,7 @@
     <isClientCredentialsFlowEnabled>false</isClientCredentialsFlowEnabled>
     <isGuestCodeCredFlowEnabled>false</isGuestCodeCredFlowEnabled>
     <isTokenExchangeFlowEnabled>false</isTokenExchangeFlowEnabled>
-    <label>second_org_integration_oauthPlcy</label>
+    <label>second_org_integration_oauth</label>
     <permittedUsersPolicyType>AllSelfAuthorized</permittedUsersPolicyType>
     <refreshTokenPolicyType>SpecificInactivity</refreshTokenPolicyType>
     <refreshTokenValidityPeriod>30</refreshTokenValidityPeriod>
